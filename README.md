@@ -1,4 +1,3 @@
 # Procesamiento-de-alto-volumenes-de-datos
-Repositorio de Sara Juliana Peña Gómez
-
-"Python" es el archivo que contiene los notebooks del curso de Python hecho por el profesor John Corredor. 
+Repositorio de Sara Juliana Peña Gómez para la materia Procesamiento de Alto Volumenes de Datos
+ 
